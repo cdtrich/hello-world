@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="survey_data.js"></script>
+<div id="chart"></div>
+
+<script>
+///////////////////////////////////////////////////////
+// data
+
+
+
+///////////////////////////////////////////////////////
+// margins
+
+var w = 450;
+var h = 450;
+
+var svg = d3.select("body").append("svg") // selecting body element, appending svg tag to it
+  .attr("id", "chart") // sets id of svg to "chart"
+  .attr("width", w)
+  .attr("height", h),
+  margin = {
+    top: 30,
+    bottom: 80,
+    left: 50,
+    right: 20,
+  },
+  width = w - margin.left - margin.right,
+  height = h - margin.top - margin.bottom;
+
+///////////////////////////////////////////////////////
+// scales
+
+
+///////////////////////////////////////////////////////
+// interactivity
+
+///////////////////////////////////////////////////////
+// DOM
+
+
+///////////////////////////////////////////////////////
+// plot
+
+
+///////////////////////////////////////////////////////
+// events
+
+///////////////////////////////////////////////////////
+// calling the plot
+
+</script>
