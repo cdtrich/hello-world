@@ -3,8 +3,7 @@ description: capstone
 authors:
   - cd_trich
 resources:
-  - https://github.com/cdtrich/hello-world/blob/master/fiddle/fiddle.js
-  - https://github.com/cdtrich/hello-world/blob/master/fiddle/fiddle.css
+
 normalize_css: no
 wrap: b
 panel_js: 0
