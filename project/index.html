@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="survey_data.js"></script>
+
 <div id="chart"></div>
 
 <script>
 ///////////////////////////////////////////////////////
 // data
-
-
 
 ///////////////////////////////////////////////////////
 // margins
@@ -31,6 +30,10 @@ var svg = d3.select("body").append("svg") // selecting body element, appending s
 ///////////////////////////////////////////////////////
 // scales
 
+var x = d3.scaleLinear()
+	.range([0, width]);
+var y = d3.scaleLinear()
+	.range([height, 0]);
 
 ///////////////////////////////////////////////////////
 // interactivity
@@ -38,15 +41,55 @@ var svg = d3.select("body").append("svg") // selecting body element, appending s
 ///////////////////////////////////////////////////////
 // DOM
 
+var chart = svg.append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 ///////////////////////////////////////////////////////
 // plot
 
+x.domain(d3.extent(data, function(d) {
+	return d.age
+}));
+y.domain([1, 5]);
 
+function plot(params) {
+
+	// enter()
+  this.selectAll(".point")
+  	.data(params.data)
+  	.enter().append("circle")
+    .classed("circle", true);
+  
+  // update
+  this.selectAll(".point")
+  	.attr("r", 2)
+    .attr("cx", function(d) {
+    	return x(d.age);
+    })
+    .attr("cy", function(d) {
+    	return y(d.glazed);
+    });
+  // exit()
+  this.selectAll(".point")
+  	.data(params.data)
+    .exit().remove();
+
+
+}
 ///////////////////////////////////////////////////////
 // events
 
 ///////////////////////////////////////////////////////
 // calling the plot
+
+plot.call(chart, {
+	data: data
+})
+
+
+
+
+
+
 
 </script>
