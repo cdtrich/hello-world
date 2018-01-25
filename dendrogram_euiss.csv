@@ -1,64 +1,40 @@
-id,value
-cyber,
-cyber.crime,
-cyber.crime.criminal,
-cyber.crime.criminal.fraud,280
-cyber.crime.criminal.sharing,462
-cyber.crime.criminal.sharing,184
-cyber.crime.criminal.theft,121
-cyber.crime.criminal.training,868
-cyber.crime.criminal.training,836
-cyber.crime.law,
-cyber.crime.law.data,546
-cyber.crime.law.ppps,84
-cyber.crime.law.reporting,604
-cyber.crime.law.sharing,54
-cyber.crime.law.training,957
-cyber.crime.law.training,530
-cyber.defence,
-cyber.defence.development,
-cyber.defence.development.cac,148
-cyber.defence.development.cad,417
-cyber.defence.development.sharing,158
-cyber.defence.development.training,757
-cyber.defence.development.training,974
-cyber.defence.mil/civ,
-cyber.defence.mil/civ.sharing,255
-cyber.defence.mil/civ.training,216
-cyber.defence.military,
-cyber.defence.military.intel,409
-cyber.defence.military.management,670
-cyber.defence.military.offensive,140
-cyber.defence.military.sharing,946
-cyber.defence.military.sharing,585
-cyber.diplomacy,
-cyber.diplomacy.cooperation,
-cyber.diplomacy.cooperation.reporting,841
-cyber.diplomacy.cooperation.sharing,43
-cyber.diplomacy.cooperation.sharing,399
-cyber.diplomacy.coordination,
-cyber.diplomacy.coordination.law,6
-cyber.diplomacy.coordination.sharing,676
-cyber.diplomacy.coordination.training,434
-cyber.diplomacy.coordination.training,975
-cyber.diplomacy.coordination.training,677
-cyber.diplomacy.deterrence,
-cyber.diplomacy.deterrence.sharing,722
-cyber.diplomacy.norms,
-cyber.diplomacy.norms.dialogues,13
-cyber.diplomacy.norms.sharing,140
-cyber.diplomacy.norms.training,871
-cyber.diplomacy.norms.un,209
-cyber.security,
-cyber.security.information,
-cyber.security.information.sharing,926
-cyber.security.information.training,724
-cyber.security.network,
-cyber.security.network.reporting,990
-cyber.security.network.sharing,118
-cyber.security.network.sharing,126
-cyber.security.network.training,280
-cyber.security.skills,
-cyber.security.skills.infrastructure,417
-cyber.security.skills.reporting,469
-cyber.security.skills.training,17
+id
+cyber.Cybersecurity
+cyber.Cybersecurity.Governance mechanisms
+cyber.Cybersecurity.Critical infrastrucutre protection
+cyber.Cybersecurity.Cooperation
+cyber.Cybersecurity.Threat intelligence
+cyber.Cybersecurity.Goal
+cyber.Cybersecurity.Skills
+cyber.Cybersecurity.Innovation
+cyber.Cybersecurity.Governance mechanisms.Standards
+cyber.Cybersecurity.Governance mechanisms.Incident reporting
+cyber.Cybersecurity.Governance mechanisms.Continuity management
+cyber.Cybersecurity.Governance mechanisms.Risk management
+cyber.Cybersecurity.Governance mechanisms.Exercises
+cyber.Cybersecurity.Governance mechanisms.PPPs
+cyber.Cybersecurity.Governance mechanisms.Bilateral agreements
+cyber.Cybersecurity.Governance mechanisms.MOUs
+cyber.Cybersecurity.Governance mechanisms.Theft
+cyber.Cybersecurity.Governance mechanisms.Fraud
+cyber.Cybersecurity.Governance mechanisms.Deception
+cyber.Cybersecurity.Governance mechanisms.Social engineering
+cyber.Cybersecurity.Governance mechanisms.Security
+cyber.Cybersecurity.Governance mechanisms.Access
+cyber.Cybersecurity.Governance mechanisms.Risk analysis
+cyber.Cybersecurity.Governance mechanisms.Engineering
+cyber.Cybersecurity.Governance mechanisms.Computer science
+cyber.Cybersecurity.Governance mechanisms.Security analysis
+cyber.Cybersecurity.Governance mechanisms.Political
+cyber.Cybersecurity.Governance mechanisms.International law
+cyber.Cybersecurity.Governance mechanisms.Norms
+cyber.Cybersecurity.Governance mechanisms.CBMs
+cyber.Cybersecurity.Governance mechanisms.MLAs
+cyber.Cybersecurity.Governance mechanisms.Development
+cyber.Cybersecurity.Governance mechanisms.Legal analysis
+cyber.Cybersecurity.Governance mechanisms.Research
+cyber.Cybersecurity.Governance mechanisms.Legal
+cyber.Cybersecurity.Governance mechanisms.Risk
+cyber.Cybercrime
+cyber.Cyber diplomacy 
+cyber.Cyber defence
