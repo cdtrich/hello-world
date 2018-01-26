@@ -1,111 +1,111 @@
-id	v
-c	0
-c.Cybersecurity	1
-c.Cybersecurity.Governancemechanisms	2
-c.Cybersecurity.Governancemechanisms.Standards	3
-c.Cybersecurity.Criticalinfrastrucutreprotection	4
-c.Cybersecurity.Criticalinfrastrucutreprotection.Incidentreporting	5
-c.Cybersecurity.Criticalinfrastrucutreprotection.Continuitymanagement	6
-c.Cybersecurity.Criticalinfrastrucutreprotection.Riskmanagement	7
-c.Cybersecurity.Cooperation	8
-c.Cybersecurity.Cooperation.Exercises	9
-c.Cybersecurity.Cooperation.PPPs	10
-c.Cybersecurity.Cooperation.Bilateralagreements	11
-c.Cybersecurity.Cooperation.MOUs	12
-c.Cybersecurity.Threatintelligence	13
-c.Cybersecurity.Threatintelligence.Theft	14
-c.Cybersecurity.Threatintelligence.Fraud	15
-c.Cybersecurity.Threatintelligence.Deception	16
-c.Cybersecurity.Threatintelligence.Socialengineering	17
-c.Cybersecurity.Goal	18
-c.Cybersecurity.Goal.Security	19
-c.Cybersecurity.Goal.Access	20
-c.Cybersecurity.Skills	21
-c.Cybersecurity.Skills.Riskanalysis	22
-c.Cybersecurity.Skills.Engineering	23
-c.Cybersecurity.Skills.Computerscience	24
-c.Cybersecurity.Skills.Securityanalysis	25
-c.Cybersecurity.Skills.Political	26
-c.Cybercrime	27
-c.Cybercrime.Governancemechanisms	28
-c.Cybercrime.Governancemechanisms.Internationallaw	29
-c.Cybercrime.Governancemechanisms.Norms	30
-c.Cybercrime.Governancemechanisms.Standards	31
-c.Cybercrime.Governancemechanisms.CBMs	32
-c.Cybercrime.Cooperation	33
-c.Cybercrime.Cooperation.Exercises	34
-c.Cybercrime.Cooperation.PPPs	35
-c.Cybercrime.Cooperation.MLAs	36
-c.Cybercrime.Cooperation.Bilateralagreements	37
-c.Cybercrime.Cooperation.MOUs	38
-c.Cybercrime.Threatintelligence	39
-c.Cybercrime.Threatintelligence.Theft	40
-c.Cybercrime.Threatintelligence.Fraud	41
-c.Cybercrime.Threatintelligence.Deception	42
-c.Cybercrime.Threatintelligence.Socialengineering	43
-c.Cybercrime.Goal	44
-c.Cybercrime.Goal.Security	45
-c.Cybercrime.Goal.Development	46
-c.Cybercrime.Goal.Access	47
-c.Cybercrime.Skills	48
-c.Cybercrime.Skills.Legalanalysis	49
-c.Cybercrime.Skills.Riskanalysis	50
-c.Cybercrime.Skills.Engineering	51
-c.Cybercrime.Skills.Computerscience	52
-c.Cybercrime.Skills.Securityanalysis	53
-c.Cybercrime.Innovation	54
-c.Cybercrime.Innovation.Research	55
-c.Cyberdiplomacy	56
-c.Cyberdiplomacy.Governancemechanisms	57
-c.Cyberdiplomacy.Governancemechanisms.Internationallaw	58
-c.Cyberdiplomacy.Governancemechanisms.Norms	59
-c.Cyberdiplomacy.Governancemechanisms.Standards	60
-c.Cyberdiplomacy.Governancemechanisms.CBMs	61
-c.Cyberdiplomacy.Cooperation	62
-c.Cyberdiplomacy.Cooperation.Exercises	63
-c.Cyberdiplomacy.Cooperation.PPPs	64
-c.Cyberdiplomacy.Cooperation.MLAs	65
-c.Cyberdiplomacy.Cooperation.Bilateralagreements	66
-c.Cyberdiplomacy.Cooperation.MOUs	67
-c.Cyberdiplomacy.Goal	68
-c.Cyberdiplomacy.Goal.Security	69
-c.Cyberdiplomacy.Goal.Development	70
-c.Cyberdiplomacy.Goal.Access	71
-c.Cyberdiplomacy.Skills	72
-c.Cyberdiplomacy.Skills.Legal	73
-c.Cyberdiplomacy.Skills.Risk	74
-c.Cyberdiplomacy.Skills.Securityanalysis	75
-c.Cyberdiplomacy.Skills.Political	76
-c.Cyberdiplomacy.Innovation	77
-c.Cyberdiplomacy.Innovation.Research	78
-c.Cyberdefence	79
-c.Cyberdefence.Governancemechanisms	80
-c.Cyberdefence.Governancemechanisms.Internationallaw	81
-c.Cyberdefence.Governancemechanisms.Norms	82
-c.Cyberdefence.Governancemechanisms.CBMs	83
-c.Cyberdefence.Criticalinfrastrucutreprotection	84
-c.Cyberdefence.Criticalinfrastrucutreprotection.Incidentreporting	85
-c.Cyberdefence.Criticalinfrastrucutreprotection.Continuitymanagement	86
-c.Cyberdefence.Criticalinfrastrucutreprotection.Riskmanagement	87
-c.Cyberdefence.Cooperation	88
-c.Cyberdefence.Cooperation.Exercises	89
-c.Cyberdefence.Cooperation.PPPs	90
-c.Cyberdefence.Cooperation.MLAs	91
-c.Cyberdefence.Cooperation.Bilateralagreements	92
-c.Cyberdefence.Cooperation.MOUs	93
-c.Cyberdefence.Threatintelligence	94
-c.Cyberdefence.Threatintelligence.Theft	95
-c.Cyberdefence.Threatintelligence.Fraud	96
-c.Cyberdefence.Threatintelligence.Deception	97
-c.Cyberdefence.Threatintelligence.Socialengineering	98
-c.Cyberdefence.Goal	99
-c.Cyberdefence.Goal.Security	100
-c.Cyberdefence.Goal.Access	101
-c.Cyberdefence.Skills	102
-c.Cyberdefence.Skills.Legal	103
-c.Cyberdefence.Skills.Risk	104
-c.Cyberdefence.Skills.Engineering	105
-c.Cyberdefence.Skills.Computerscience	106
-c.Cyberdefence.Skills.Securityanalysis	107
-c.Cyberdefence.Innovation.	108
-c.Cyberdefence.Innovation.Research	109
+id,v
+c,0
+c.Cybersecurity,1
+c.Cybersecurity.Governancemechanisms,2
+c.Cybersecurity.Governancemechanisms.Standards,3
+c.Cybersecurity.Criticalinfrastrucutreprotection,4
+c.Cybersecurity.Criticalinfrastrucutreprotection.Incidentreporting,5
+c.Cybersecurity.Criticalinfrastrucutreprotection.Continuitymanagement,6
+c.Cybersecurity.Criticalinfrastrucutreprotection.Riskmanagement,7
+c.Cybersecurity.Cooperation,8
+c.Cybersecurity.Cooperation.Exercises,9
+c.Cybersecurity.Cooperation.PPPs,10
+c.Cybersecurity.Cooperation.Bilateralagreements,11
+c.Cybersecurity.Cooperation.MOUs,12
+c.Cybersecurity.Threatintelligence,13
+c.Cybersecurity.Threatintelligence.Theft,14
+c.Cybersecurity.Threatintelligence.Fraud,15
+c.Cybersecurity.Threatintelligence.Deception,16
+c.Cybersecurity.Threatintelligence.Socialengineering,17
+c.Cybersecurity.Goal,18
+c.Cybersecurity.Goal.Security,19
+c.Cybersecurity.Goal.Access,20
+c.Cybersecurity.Skills,21
+c.Cybersecurity.Skills.Riskanalysis,22
+c.Cybersecurity.Skills.Engineering,23
+c.Cybersecurity.Skills.Computerscience,24
+c.Cybersecurity.Skills.Securityanalysis,25
+c.Cybersecurity.Skills.Political,26
+c.Cybercrime,27
+c.Cybercrime.Governancemechanisms,28
+c.Cybercrime.Governancemechanisms.Internationallaw,29
+c.Cybercrime.Governancemechanisms.Norms,30
+c.Cybercrime.Governancemechanisms.Standards,31
+c.Cybercrime.Governancemechanisms.CBMs,32
+c.Cybercrime.Cooperation,33
+c.Cybercrime.Cooperation.Exercises,34
+c.Cybercrime.Cooperation.PPPs,35
+c.Cybercrime.Cooperation.MLAs,36
+c.Cybercrime.Cooperation.Bilateralagreements,37
+c.Cybercrime.Cooperation.MOUs,38
+c.Cybercrime.Threatintelligence,39
+c.Cybercrime.Threatintelligence.Theft,40
+c.Cybercrime.Threatintelligence.Fraud,41
+c.Cybercrime.Threatintelligence.Deception,42
+c.Cybercrime.Threatintelligence.Socialengineering,43
+c.Cybercrime.Goal,44
+c.Cybercrime.Goal.Security,45
+c.Cybercrime.Goal.Development,46
+c.Cybercrime.Goal.Access,47
+c.Cybercrime.Skills,48
+c.Cybercrime.Skills.Legalanalysis,49
+c.Cybercrime.Skills.Riskanalysis,50
+c.Cybercrime.Skills.Engineering,51
+c.Cybercrime.Skills.Computerscience,52
+c.Cybercrime.Skills.Securityanalysis,53
+c.Cybercrime.Innovation,54
+c.Cybercrime.Innovation.Research,55
+c.Cyberdiplomacy,56
+c.Cyberdiplomacy.Governancemechanisms,57
+c.Cyberdiplomacy.Governancemechanisms.Internationallaw,58
+c.Cyberdiplomacy.Governancemechanisms.Norms,59
+c.Cyberdiplomacy.Governancemechanisms.Standards,60
+c.Cyberdiplomacy.Governancemechanisms.CBMs,61
+c.Cyberdiplomacy.Cooperation,62
+c.Cyberdiplomacy.Cooperation.Exercises,63
+c.Cyberdiplomacy.Cooperation.PPPs,64
+c.Cyberdiplomacy.Cooperation.MLAs,65
+c.Cyberdiplomacy.Cooperation.Bilateralagreements,66
+c.Cyberdiplomacy.Cooperation.MOUs,67
+c.Cyberdiplomacy.Goal,68
+c.Cyberdiplomacy.Goal.Security,69
+c.Cyberdiplomacy.Goal.Development,70
+c.Cyberdiplomacy.Goal.Access,71
+c.Cyberdiplomacy.Skills,72
+c.Cyberdiplomacy.Skills.Legal,73
+c.Cyberdiplomacy.Skills.Risk,74
+c.Cyberdiplomacy.Skills.Securityanalysis,75
+c.Cyberdiplomacy.Skills.Political,76
+c.Cyberdiplomacy.Innovation,77
+c.Cyberdiplomacy.Innovation.Research,78
+c.Cyberdefence,79
+c.Cyberdefence.Governancemechanisms,80
+c.Cyberdefence.Governancemechanisms.Internationallaw,81
+c.Cyberdefence.Governancemechanisms.Norms,82
+c.Cyberdefence.Governancemechanisms.CBMs,83
+c.Cyberdefence.Criticalinfrastrucutreprotection,84
+c.Cyberdefence.Criticalinfrastrucutreprotection.Incidentreporting,85
+c.Cyberdefence.Criticalinfrastrucutreprotection.Continuitymanagement,86
+c.Cyberdefence.Criticalinfrastrucutreprotection.Riskmanagement,87
+c.Cyberdefence.Cooperation,88
+c.Cyberdefence.Cooperation.Exercises,89
+c.Cyberdefence.Cooperation.PPPs,90
+c.Cyberdefence.Cooperation.MLAs,91
+c.Cyberdefence.Cooperation.Bilateralagreements,92
+c.Cyberdefence.Cooperation.MOUs,93
+c.Cyberdefence.Threatintelligence,94
+c.Cyberdefence.Threatintelligence.Theft,95
+c.Cyberdefence.Threatintelligence.Fraud,96
+c.Cyberdefence.Threatintelligence.Deception,97
+c.Cyberdefence.Threatintelligence.Socialengineering,98
+c.Cyberdefence.Goal,99
+c.Cyberdefence.Goal.Security,100
+c.Cyberdefence.Goal.Access,101
+c.Cyberdefence.Skills,102
+c.Cyberdefence.Skills.Legal,103
+c.Cyberdefence.Skills.Risk,104
+c.Cyberdefence.Skills.Engineering,105
+c.Cyberdefence.Skills.Computerscience,106
+c.Cyberdefence.Skills.Securityanalysis,107
+c.Cyberdefence.Innovation.,108
+c.Cyberdefence.Innovation.Research,109
