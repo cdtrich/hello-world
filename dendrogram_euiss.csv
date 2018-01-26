@@ -1,41 +1,110 @@
 id
-cyber
-cyber.Cybersecurity
-cyber.Cybersecurity.Governance mechanisms
-cyber.Cybersecurity.Critical infrastrucutre protection
-cyber.Cybersecurity.Cooperation
-cyber.Cybersecurity.Threat intelligence
-cyber.Cybersecurity.Goal
-cyber.Cybersecurity.Skills
-cyber.Cybersecurity.Innovation
-cyber.Cybersecurity.Governance mechanisms.Standards
-cyber.Cybersecurity.Governance mechanisms.Incident reporting
-cyber.Cybersecurity.Governance mechanisms.Continuity management
-cyber.Cybersecurity.Governance mechanisms.Risk management
-cyber.Cybersecurity.Governance mechanisms.Exercises
-cyber.Cybersecurity.Governance mechanisms.PPPs
-cyber.Cybersecurity.Governance mechanisms.Bilateral agreements
-cyber.Cybersecurity.Governance mechanisms.MOUs
-cyber.Cybersecurity.Governance mechanisms.Theft
-cyber.Cybersecurity.Governance mechanisms.Fraud
-cyber.Cybersecurity.Governance mechanisms.Deception
-cyber.Cybersecurity.Governance mechanisms.Social engineering
-cyber.Cybersecurity.Governance mechanisms.Security
-cyber.Cybersecurity.Governance mechanisms.Access
-cyber.Cybersecurity.Governance mechanisms.Risk analysis
-cyber.Cybersecurity.Governance mechanisms.Engineering
-cyber.Cybersecurity.Governance mechanisms.Computer science
-cyber.Cybersecurity.Governance mechanisms.Security analysis
-cyber.Cybersecurity.Governance mechanisms.Political
-cyber.Cybersecurity.Governance mechanisms.International law
-cyber.Cybersecurity.Governance mechanisms.Norms
-cyber.Cybersecurity.Governance mechanisms.CBMs
-cyber.Cybersecurity.Governance mechanisms.MLAs
-cyber.Cybersecurity.Governance mechanisms.Development
-cyber.Cybersecurity.Governance mechanisms.Legal analysis
-cyber.Cybersecurity.Governance mechanisms.Research
-cyber.Cybersecurity.Governance mechanisms.Legal
-cyber.Cybersecurity.Governance mechanisms.Risk
-cyber.Cybercrime
-cyber.Cyber diplomacy 
-cyber.Cyber defence
+c.Cybersecurity..
+c.Cybersecurity.Governance mechanisms.
+c.Cybersecurity.Governance mechanisms.Standards
+c.Cybersecurity.Critical infrastrucutre protection.
+c.Cybersecurity.Critical infrastrucutre protection.Incident reporting
+c.Cybersecurity.Critical infrastrucutre protection.Continuity management
+c.Cybersecurity.Critical infrastrucutre protection.Risk management
+c.Cybersecurity.Cooperation.
+c.Cybersecurity.Cooperation.Exercises
+c.Cybersecurity.Cooperation.PPPs
+c.Cybersecurity.Cooperation.Bilateral agreements
+c.Cybersecurity.Cooperation.MOUs
+c.Cybersecurity.Threat intelligence.
+c.Cybersecurity.Threat intelligence.Theft
+c.Cybersecurity.Threat intelligence.Fraud
+c.Cybersecurity.Threat intelligence.Deception
+c.Cybersecurity.Threat intelligence.Social engineering
+c.Cybersecurity.Goal.
+c.Cybersecurity.Goal.Security
+c.Cybersecurity.Goal.Access
+c.Cybersecurity.Skills.
+c.Cybersecurity.Skills.Risk analysis
+c.Cybersecurity.Skills.Engineering
+c.Cybersecurity.Skills.Computer science
+c.Cybersecurity.Skills.Security analysis
+c.Cybersecurity.Skills.Political
+c.Cybercrime..
+c.Cybercrime.Governance mechanisms.
+c.Cybercrime.Governance mechanisms.International law
+c.Cybercrime.Governance mechanisms.Norms
+c.Cybercrime.Governance mechanisms.Standards
+c.Cybercrime.Governance mechanisms.CBMs
+c.Cybercrime.Cooperation.
+c.Cybercrime.Cooperation.Exercises
+c.Cybercrime.Cooperation.PPPs
+c.Cybercrime.Cooperation.MLAs
+c.Cybercrime.Cooperation.Bilateral agreements
+c.Cybercrime.Cooperation.MOUs
+c.Cybercrime.Threat intelligence.
+c.Cybercrime.Threat intelligence.Theft
+c.Cybercrime.Threat intelligence.Fraud
+c.Cybercrime.Threat intelligence.Deception
+c.Cybercrime.Threat intelligence.Social engineering
+c.Cybercrime.Goal.
+c.Cybercrime.Goal.Security
+c.Cybercrime.Goal.Development
+c.Cybercrime.Goal.Access
+c.Cybercrime.Skills.
+c.Cybercrime.Skills.Legal analysis
+c.Cybercrime.Skills.Risk analysis
+c.Cybercrime.Skills.Engineering
+c.Cybercrime.Skills.Computer science
+c.Cybercrime.Skills.Security analysis
+c.Cybercrime.Innovation.
+c.Cybercrime.Innovation.Research
+c.Cyber diplomacy ..
+c.Cyber diplomacy .Governance mechanisms.
+c.Cyber diplomacy .Governance mechanisms.International law
+c.Cyber diplomacy .Governance mechanisms.Norms
+c.Cyber diplomacy .Governance mechanisms.Standards
+c.Cyber diplomacy .Governance mechanisms.CBMs
+c.Cyber diplomacy .Cooperation.
+c.Cyber diplomacy .Cooperation.Exercises
+c.Cyber diplomacy .Cooperation.PPPs
+c.Cyber diplomacy .Cooperation.MLAs
+c.Cyber diplomacy .Cooperation.Bilateral agreements
+c.Cyber diplomacy .Cooperation.MOUs
+c.Cyber diplomacy .Goal.
+c.Cyber diplomacy .Goal.Security
+c.Cyber diplomacy .Goal.Development
+c.Cyber diplomacy .Goal.Access
+c.Cyber diplomacy .Skills.
+c.Cyber diplomacy .Skills.Legal
+c.Cyber diplomacy .Skills.Risk
+c.Cyber diplomacy .Skills.Security analysis
+c.Cyber diplomacy .Skills.Political
+c.Cyber diplomacy .Innovation.
+c.Cyber diplomacy .Innovation.Research
+c.Cyber defence..
+c.Cyber defence.Governance mechanisms.
+c.Cyber defence.Governance mechanisms.International law
+c.Cyber defence.Governance mechanisms.Norms
+c.Cyber defence.Governance mechanisms.CBMs
+c.Cyber defence.Critical infrastrucutre protection.
+c.Cyber defence.Critical infrastrucutre protection.Incident reporting
+c.Cyber defence.Critical infrastrucutre protection.Continuity management
+c.Cyber defence.Critical infrastrucutre protection.Risk management
+c.Cyber defence.Cooperation.
+c.Cyber defence.Cooperation.Exercises
+c.Cyber defence.Cooperation.PPPs
+c.Cyber defence.Cooperation.MLAs
+c.Cyber defence.Cooperation.Bilateral agreements
+c.Cyber defence.Cooperation.MOUs
+c.Cyber defence.Threat intelligence.
+c.Cyber defence.Threat intelligence.Theft
+c.Cyber defence.Threat intelligence.Fraud
+c.Cyber defence.Threat intelligence.Deception
+c.Cyber defence.Threat intelligence.Social engineering
+c.Cyber defence.Goal.
+c.Cyber defence.Goal.Security
+c.Cyber defence.Goal.Access
+c.Cyber defence.Skills.
+c.Cyber defence.Skills.Legal
+c.Cyber defence.Skills.Risk
+c.Cyber defence.Skills.Engineering
+c.Cyber defence.Skills.Computer science
+c.Cyber defence.Skills.Security analysis
+c.Cyber defence.Innovation.
+c.Cyber defence.Innovation.Research
