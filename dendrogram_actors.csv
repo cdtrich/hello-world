@@ -1,0 +1,34 @@
+id,val
+cyber,1
+cyber.Cybersecurity,2
+cyber.Cybersecurity.European Council,3
+cyber.Cybersecurity.European Commission,4
+cyber.Cybersecurity.ENISA,5
+cyber.Cybersecurity.CERT-EU,6
+cyber.Cybersecurity.eu-LISA,7
+cyber.Cybersecurity.NIS Public Private Platform,8
+cyber.Cybersecurity.Network of competent authorities,9
+cyber.Cybercrime,10
+cyber.Cybercrime.European Council,11
+cyber.Cybercrime.European Commission,12
+cyber.Cybercrime.Europol/EC3,13
+cyber.Cybercrime.CEPOL,14
+cyber.Cybercrime.Eurojust,15
+cyber.Cybercrime.eu-LISA,16
+cyber.Cybercrime.ECTEG,17
+cyber.Cybercrime.INHOPE network,18
+cyber.Cybercrime.EFC,19
+cyber.Cyber diplomacy,20
+cyber.Cyber diplomacy.European Council,21
+cyber.Cyber diplomacy.EEAS,22
+cyber.Cyber diplomacy.European Commission,23
+cyber.Cyber diplomacy.ESDC,24
+cyber.Cyber diplomacy.EUISS,25
+cyber.Cyber defence,26
+cyber.Cyber defence.European Council,27
+cyber.Cyber defence.EEAS,28
+cyber.Cyber defence.European Commission,29
+cyber.Cyber defence.EDA,30
+cyber.Cyber defence.SATCEN,31
+cyber.Cyber defence.ESDC,32
+cyber.Cyber defence.EUISS,33
